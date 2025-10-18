@@ -7,6 +7,6 @@
 
 Explore how mobile wallets and online payment systems like Apple Pay, WePay, VinPay, and GoPay are transforming the way we pay. Learn the tech behind them, their global reach, and why they're key players in the future of fintech.
 
-[YouTube Link]()
+[YouTube Link](https://youtu.be/IOzDDKuzOyI)
 
 **If software-driven payment platforms can bypass traditional banks and U.S.-controlled systems, will this lead to a more open and fair global economy — or create new monopolies elsewhere?**
